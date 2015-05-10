@@ -1,8 +1,7 @@
-This site was made to show the world how sexy Dr. Richard Stallman is. It was made by some guy in an irc channel. It just meant as a silly joke and nothing else. Some people will get the joke but I doubt most people will.
-Just say hi to shodan on rizon if you have images of rms that you want added.
+This site was made to show the world how much of a party animal Dr. Richard Stallman is.
 
-Now with 100% less rotated images!
+Blatantly ripped off of https://rms.sexy.
 
-License: https://rms.sexy/license.txt
-Source Code: https://github.com/Mechazawa/rms.sexy
-Live Source code: https://rms.sexy/index.php.txt
+License: http://rms.party/license.txt
+Source Code: https://github.com/kmcasto/rms.sexy
+Live Source code: https://rms.party/index.php.txt
