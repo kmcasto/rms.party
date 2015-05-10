@@ -3,5 +3,5 @@ This site was made to show the world how much of a party animal Dr. Richard Stal
 Blatantly ripped off of https://rms.sexy.
 
 License: http://rms.party/license.txt
-Source Code: https://github.com/kmcasto/rms.sexy
-Live Source code: https://rms.party/index.php.txt
+Source Code: https://github.com/kmcasto/rms.party
+Live Source code: http://rms.party/index.php.txt
