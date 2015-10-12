@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Our GNU/Lord and GNU/Savior is 100% ready to party!</title>
+   <style>
+   body {
+     margin: 0;
+     background-image: url("noise.png");
+   }
+
+   #stallman {
+     text-align: center;
+     position: absolute;
+     margin: auto;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     image-orientation: from-image;
+   }
+
+   .donate {
+     padding: 10px;
+     padding-right: 30px;
+     z-index: 100;
+     position: absolute;
+   }
+   </style>
+   
+   <script>
+		window.onload = function () {
+			setImg();
+			
+			setInterval(function() {
+				setImg();
+			}, 4 * 1000);
+		}
+
+		function setImg() {
+			randImgSrc = "img/" + Math.floor(Math.random() * (65)) + ".jpg";
+			document.getElementById("stallman").src=randImgSrc;	
+			var randImgSrc;
+		}
+   </script>
+</head>
+<body>
+   <a href="https://donate.fsf.org/"><img class="donate" src="donate.png" alt="Donate!" title="Donate to the FSF!"></a>
+   <img id="stallman" alt="RMS" src="" height="100%">
+</body>
+</html>
